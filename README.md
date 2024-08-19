@@ -29,7 +29,7 @@
 - &check; Spawning go2 in gazebo environment. (launch using go2 config from champ)
 - &check; Working rviz only demo. (launch using go2 config from champ)
 - &check; Working Gazebo with teleoperated robot. (launch using go2 config from champ)
-- &cross; Adding IMU
+- &check; Adding IMU
 - &cross; Adding 2D LaserScan
 - &cross; Adding Intel Realsense Depth Camera
 
